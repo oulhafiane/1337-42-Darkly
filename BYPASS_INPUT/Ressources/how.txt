@@ -1,0 +1,3 @@
+/index.php?page=survey# 
+
+sujet=6&valeur=12

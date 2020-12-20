@@ -1,0 +1,3 @@
+change the cookie:
+i_am_admin	from:	68934a3e9455fa72420237eb05902327:false
+			to	:	b326b5062b2f0e69046810717534cb09:true

@@ -1,0 +1,3 @@
+http://10.11.100.93/.hidden/
+
+cat results | grep -v "^[DTN]\|^$"
