@@ -1,3 +1,7 @@
+# Installation And Execution
+You will have to use a virtual machine (x64).  
+If the configuration is correct, once you have launched your machine with the [ISO](https://github.com/oulhafiane/1337-42-Darkly/blob/main/Darkly_i386.iso) you will get a simple prompt with an IP You just need to choose your web browser to launch the displayed IP address
+
 # 1337-42-Darkly
 This project is an introduction to cyber security in the field of the WWW.
 
